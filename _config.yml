@@ -1,3 +1,5 @@
 title: 我的博客
 description: 个人随笔与技术分享
 theme: jekyll-theme-minimal
+url: "https://kgw1.github.io"
+baseurl: "/blogs"
